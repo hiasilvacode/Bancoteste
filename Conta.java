@@ -1,6 +1,7 @@
-public class Conta {
+
     import java.util.Random;
     import java.util.Scanner;
+
     public class Conta  {
         int numero_conta;
         String titular_conta;
